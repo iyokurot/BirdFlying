@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 5300505be0ae48c4283c435abb4d49a8
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: f28087ff791ff54458ca5a82f3ca7bff
+  - enabled: 1
+    path: Assets/Scenes/ModeSelectScene.unity
+    guid: 68b1fa9ca332cbc41a190db87454104e
+  - enabled: 1
+    path: Assets/Scenes/RingModeSelect.unity
+    guid: a90d31e3141b7694eb48c76c84cba7d3
+  - enabled: 1
+    path: Assets/Scenes/RingEndless.unity
+    guid: e6c244fc5325f424ba39987d31f2884f
+  - enabled: 1
+    path: Assets/Scenes/itemModeSelect.unity
+    guid: 254cd6aa8ac42ec4c97fbfaa66997aae
+  - enabled: 1
+    path: Assets/Scenes/ItemEndlessScene.unity
+    guid: 32e144a40cc68544c96a319c5423af8d
+  - enabled: 1
+    path: Assets/Scenes/ItemTimeAttackScene.unity
+    guid: 92f046834abcce240954ea56993ddef3
+  - enabled: 1
+    path: Assets/Scenes/FreeFlyScene.unity
+    guid: 10122b6667449684d8a61385c3bca1ac
+  m_configObjects: {}
